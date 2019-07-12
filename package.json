@@ -1,6 +1,6 @@
 {
   "name": "socket.io-compose",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "compose Socket.IO middleware",
   "main": "compose.js",
   "directories": {
